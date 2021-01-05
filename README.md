@@ -39,6 +39,8 @@ P.S. You can run it manually too if you don't want to install it.
 
 `Ctrl + Alt + 4` = 100% Brightness
 
+- Exit `Ctrl + Alt + Q`
+
 # Notes
 
 Default display is set to 0 since I only had a single monitor, however you should be able to set it to `None` to make it work for all monitor.  
