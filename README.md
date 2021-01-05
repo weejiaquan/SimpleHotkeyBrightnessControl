@@ -9,7 +9,12 @@ Python based DDC/CI Hotkey implementation for brightness control directly on Win
 
 Pynput - `pip3 install pynput`
 
+Source : https://github.com/moses-palmer/pynput
+
 screen-brightness-control - `pip3 install screen-brightness-control`
+
+Source : https://github.com/Crozzers/screen_brightness_control
+
 
 # Installation
 
