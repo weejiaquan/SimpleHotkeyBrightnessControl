@@ -16,6 +16,8 @@ screen-brightness-control - `pip3 install screen-brightness-control`
 Method #1 - Windows 10 
 - Windows + R > `shell:startup` > Drop it there
 
+Restart your PC after that or just run it.
+
 P.S. You can run it manually too if you don't want to install it.
 
 # How to use (Hotkey are customizable)
