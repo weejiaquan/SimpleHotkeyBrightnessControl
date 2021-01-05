@@ -6,10 +6,13 @@ Python based DDC/CI Hotkey implementation for brightness control directly on Win
 - Brightness Preset (Ctrl + Alt + 0/1/2/3/4) Similar to how Lunar on MacOS does brightness preset with (⌘+ ALT + Number)
 
 # Prerequisite
--Pynput - `pip3 install pynput`
--screen-brightness-control - `pip3 install screen-brightness-control`
+
+Pynput - `pip3 install pynput`
+
+screen-brightness-control - `pip3 install screen-brightness-control`
 
 # Installation
+
 Method #1 - Windows 10 
 - Windows + R > `shell:startup` > Drop it there
 
