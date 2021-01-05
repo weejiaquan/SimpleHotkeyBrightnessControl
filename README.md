@@ -14,7 +14,7 @@ screen-brightness-control - `pip3 install screen-brightness-control`
 # Installation
 
 Method #1 - Windows 10 
-- Windows + R > `shell:startup` > Drop it there
+- Windows + R > `shell:startup` > Drop `SimpleHotkeyBrightnessControl.pyw` in the directory
 
 Restart your PC after that or just run it.
 
